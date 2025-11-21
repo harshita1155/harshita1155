@@ -42,11 +42,11 @@
 ---
 
 #### 2️⃣ Student Result Portal  
-**Tech:** Java, JDBC, MySQL  
-- Console-based student records & marks management  
-- Secure database operations  
-- Efficient result calculation  
-  
+**Tech:** Java, MySQL, HTML, CSS  
+- Developed a web application to manage patient records, appointments and biling.
+-  Implemented role-based access for admins, doctors, and patients to ensure secure data handling and efficient
+ healthcare operations. 
+   
 🔗 *Repository:* (Add link once uploaded)
 
 ---
@@ -60,8 +60,7 @@
 
 ### 🏆 Certifications  
 - Oracle Cloud Infrastructure – **AI Foundations Associate**  
-- Cisco – **Networking Basics**  
-- NPTEL – Principles of Management  
+- Cisco – **Networking Basics**    
 
 ---
 
