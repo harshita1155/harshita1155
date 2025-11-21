@@ -41,7 +41,7 @@
 
 ---
 
-#### 2️⃣ Student Result Portal  
+#### 2️⃣ E-HealthCare Management System
 **Tech:** Java, MySQL, HTML, CSS  
 - Developed a web application to manage patient records, appointments and biling.
 -  Implemented role-based access for admins, doctors, and patients to ensure secure data handling and efficient
